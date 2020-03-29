@@ -1,0 +1,26 @@
+{
+  "name": "jest-fp-ts",
+  "version": "0.0.1",
+  "description": "Jest matchers for fp-ts data types",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebrodmann/jest-fp-ts.git"
+  },
+  "keywords": [
+    "jest",
+    "fp-ts",
+    "test",
+    "matcher",
+    "expect"
+  ],
+  "author": "Mohammad Hasani <thebrodmann@protonmail.com> (https://github.com/thebrodmann)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thebrodmann/jest-fp-ts/issues"
+  },
+  "homepage": "https://github.com/thebrodmann/jest-fp-ts#readme"
+}
