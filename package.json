@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/thebrodmann/jest-fp-ts/issues"
   },
-  "homepage": "https://github.com/thebrodmann/jest-fp-ts#readme"
+  "homepage": "https://github.com/thebrodmann/jest-fp-ts#readme",
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "prettier": "^2.0.2",
+    "ts-jest": "^25.3.0",
+    "typescript": "^3.8.3"
+  }
 }
